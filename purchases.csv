@@ -1,0 +1,21 @@
+﻿date,material,quantity,unit_price,supplier
+2026-11-01,Cement,50,390,DEMO Supplier A
+2026-11-02,Steel,500,62,DEMO Supplier B
+2026-11-03,Sand,200,45,DEMO Supplier C
+2026-11-04,Bricks,3000,8,DEMO Supplier D
+2026-11-05,Aggregate,100,55,DEMO Supplier E
+2026-11-06,Cement,40,395,DEMO Supplier A
+2026-11-07,Steel,350,63,DEMO Supplier B
+2026-11-08,Sand,150,46,DEMO Supplier C
+2026-11-09,Bricks,2000,8.5,DEMO Supplier D
+2026-11-10,Aggregate,80,56,DEMO Supplier E
+2026-11-11,Cement,60,388,DEMO Supplier A
+2026-11-12,Steel,400,61,DEMO Supplier B
+2026-11-13,Sand,180,44,DEMO Supplier C
+2026-11-14,Bricks,2500,8.2,DEMO Supplier D
+2026-11-15,Aggregate,120,54,DEMO Supplier E
+2026-11-16,Cement,30,392,DEMO Supplier A
+2026-11-17,Steel,300,64,DEMO Supplier B
+2026-11-18,Sand,100,47,DEMO Supplier C
+2026-11-19,Bricks,1500,8.3,DEMO Supplier D
+2026-11-20,Aggregate,90,55.5,DEMO Supplier E
